@@ -1,0 +1,7 @@
+2021-11-19 22:54:45 [INFO] 输入数据 1 1 期望数据 2 (test_practice1.py:23)
+2021-11-19 22:54:45 [INFO] 输入数据 -0.01 0.02 期望数据 0.01 (test_practice1.py:23)
+2021-11-19 22:54:45 [INFO] 输入数据 10 0.02 期望数据 10.02 (test_practice1.py:23)
+2021-11-19 22:54:45 [INFO] 输入数据 None 20.93 期望数据 TypeError (test_practice1.py:30)
+2021-11-19 22:54:45 [INFO] 输入数据 -3 None 期望数据 TypeError (test_practice1.py:30)
+2021-11-19 22:54:45 [INFO] 输入数据   3.14 期望数据 TypeError (test_practice1.py:30)
+2021-11-19 22:54:45 [INFO] 输入数据 -90   期望数据 TypeError (test_practice1.py:30)
